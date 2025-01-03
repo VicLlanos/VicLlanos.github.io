@@ -2536,6 +2536,9 @@ footer .copyright span:last-child::after {
 	footer .copyright span::after {
 		display: none;
 	}
+	.footer-social{
+		align-items: center;
+	}
 }
 
 /**
